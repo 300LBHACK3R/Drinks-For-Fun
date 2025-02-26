@@ -39,6 +39,7 @@ Creative Easter Egg:
 Enter “Tate” as your name to unlock special ASCII art and a fun message. 🎆
 
 Requirements ⚙️
+----------------------------------------------------
 Python 3.6 or later. 🐍
 Standard libraries: random, datetime.
 Installation 💻
