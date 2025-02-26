@@ -1,3 +1,12 @@
+      ____  _       _     _____                _             
+     |  _ \| | ___ | |__ |  ___|__  _ __   ___| | _____ _ __ 
+     | | | | |/ _ \| '_ \| |_ / _ \| '_ \ / _ \ |/ / _ \ '__|
+     | |_| | | (_) | |_) |  _| (_) | | | |  __/   <  __/ |   
+     |____/|_|\___/|_.__/|_|  \___/|_| |_|\___|_|\_\___|_|   
+                                                            
+             Fun and Interactive Drinking Game 🍻            
+  "Crafted with Intellect and Ingenuity" – Get Ready to Party!  
+
 Fun and Interactive Drinking Game 🍻
 --------------------------------------
 Welcome to the Fun and Interactive Drinking Game—an engaging Python project that turns a simple age-checking script into a virtual guest screening game! Crafted with intellect and ingenuity, this program not only evaluates a user’s age but also serves up a tailored drink menu with a playful twist. 🎉
