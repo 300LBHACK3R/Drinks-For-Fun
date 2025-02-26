@@ -47,9 +47,12 @@ Clone the repository:
 --------------------------------------------------------------
 git clone https://github.com/yourusername/your-repo-name.git
 --------------------------------------------------------------
-cd your-repo-name
+cd DrinksForFun.py
+------------------------------------------------------
 Ensure Python is installed
+--------------------------------------------
 Verify you have Python 3.6+ installed on your system.
+----------------------------------------------------
 
 Usage 🚀
 ----------------------------------------------------------
