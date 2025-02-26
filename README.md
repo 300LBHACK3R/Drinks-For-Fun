@@ -1,4 +1,4 @@
-![My Art](/Photo.png) ![My Art](/Photo1.png) ![My Art](/Photo3.png)
+![My Art](/Photo.png) ![My Art](/Photo1.png)
 Fun and Interactive Drinking Game 🍻
 --------------------------------------
 Welcome to the Fun and Interactive Drinking Game—an engaging Python project that turns a simple age-checking script into a virtual guest screening game! Crafted with intellect and ingenuity, this program not only evaluates a user’s age but also serves up a tailored drink menu with a playful twist. 🎉
@@ -74,3 +74,5 @@ This project is licensed under the MIT License.
 Author 🎩
 Tate R.A Byers – Crafted with Intellect and Ingenuity 😎
 --------------------------------------------------------------
+
+[My Art](/Photo3.png)[My Art](/Photo2.png)
