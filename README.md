@@ -75,4 +75,4 @@ Author 🎩
 Tate R.A Byers – Crafted with Intellect and Ingenuity 😎
 --------------------------------------------------------------
 
-[My Art](/Photo3.png)[My Art](/Photo2.png)
+![My Art](/Photo3.png) ![My Art](/Photo2.png)
