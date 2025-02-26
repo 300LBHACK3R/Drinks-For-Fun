@@ -45,19 +45,16 @@ Standard libraries: random, datetime.
 Installation 💻
 Clone the repository:
 --------------------------------------------------------------
-bash
-Copy
 git clone https://github.com/yourusername/your-repo-name.git
+--------------------------------------------------------------
 cd your-repo-name
-Ensure Python is installed:
+Ensure Python is installed
 Verify you have Python 3.6+ installed on your system.
 
 Usage 🚀
 ----------------------------------------------------------
 Run the game from your terminal:
 
-bash
-Copy
 python3 drinking_game.py
 Follow the on-screen prompts to enjoy your interactive experience!
 
