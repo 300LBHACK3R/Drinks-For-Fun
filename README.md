@@ -49,7 +49,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 --------------------------------------------------------------
 cd DrinksForFun.py
 ------------------------------------------------------
-Ensure Python is installed
+Ensure Python is installed: sudo apt-get update && sudo apt-get install python3
 --------------------------------------------
 Verify you have Python 3.6+ installed on your system.
 ----------------------------------------------------
