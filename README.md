@@ -55,7 +55,8 @@ Usage 🚀
 ----------------------------------------------------------
 Run the game from your terminal:
 
-python3 drinking_game.py
+python3 DrinksForFun.py
+---------------------------
 Follow the on-screen prompts to enjoy your interactive experience!
 
 Contributing 🤝
